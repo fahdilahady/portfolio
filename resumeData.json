@@ -57,7 +57,14 @@
                 "description": "Mastering Electrical instrumentation for agriculture, hydrology and aviation"
             }
         ],
-        "work": [{
+        "work": [
+            {
+                "company": "firstWAP",
+                "title": "QA/QC Manager",
+                "years": "Nov 2024 - Present",
+                "description": "Evaluating QA tech stack, improve quality process"
+            },
+            { 
                 "company": "kuelap.io",
                 "title": "Senior Quality Engineer",
                 "years": "July 2022 - Present",
